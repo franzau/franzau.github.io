@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: "questo è un post"
 ---
+
 # Primo testo
 
 vediamo un po' _corsivo_ e ora **grassetto**
