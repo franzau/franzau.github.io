@@ -1,2 +1,2 @@
 # About me
-I am trying
+I love :pizza:
